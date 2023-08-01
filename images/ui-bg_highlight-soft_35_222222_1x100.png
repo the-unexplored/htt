@@ -1,0 +1,1158 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="it-IT" class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7]> <html lang="it-IT" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8]> <html lang="it-IT" class="no-js ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="it-IT">
+    <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: head_title</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 14</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 14<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div></title>
+        <meta 0 name="description" content="
+<div style=" border:1px solid #990000;padding-left:20px;margin:0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: head_description</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 15</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 15<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+">
+
+        
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: view_slug</p>
+<p>Filename: site/header.php</p>
+<p>Line Number: 17</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/views/site/header.php<br>
+			Line: 17<br>
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 91<br>
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/application/controllers/Main.php<br>
+			Line: 459<br>
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/uve/index.php<br>
+			Line: 296<br>
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+
+        <link href="https://fonts.googleapis.com/css?family=Cardo:400,400italic,700" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic" rel="stylesheet" type="text/css">
+
+        <link href="../favicon.ico" rel="shortcut icon">
+
+        <meta property="og:locale" content="it_IT">
+        <meta property="og:description" content="UVE si trova a La Morra, nel cuore delle Langhe, una delle più celebri aree enogastronomiche, il cui paesaggio vitivinicolo è stato iscritto, dal 22 giugno 2014, alla lista Patrimonio Mondiale UNESCO come paesaggio culturale, ovvero il risultato dell’azione combinata dell’uomo e della natura.">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Uve Langhe">
+        <meta property="og:url" content="https://www.uvelanghe.it">
+        <meta property="og:site_name" content="Uve Langhe">
+        <meta property="og:image" content="cover.jpg">
+
+
+                    <link rel="stylesheet" href="../css/style.min.css" type="text/css" media="all">
+                
+        
+
+        <script type="text/javascript">
+            dataLayer = [];
+        </script>
+
+        
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLPHS3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-TLPHS3');</script>
+            <!-- End Google Tag Manager -->
+
+        
+
+		<script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="../js/modernizr.min.js"></script>
+
+        
+    </head>
+    <body class="loading">
+
+    <div id="mainWrap">
+
+    <!--         <style>
+
+body {
+    overflow: hidden;
+}
+        .popup__covid {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.6);
+            text-align: center;
+            z-index: 9999;
+            font-family: 'Playfair Display';
+            font-weight: 400;
+            letter-spacing: .025em;
+            overflow: hidden;
+        }
+        .popup__covid table {
+            background: white;
+            margin: 10vh auto;
+            max-width: 80%;
+        }
+        .popup__covid tr, .popup__covid td {
+            vertical-align: middle;
+        }
+        .popup__covid td {
+            text-align:center;
+        }
+        .popup__container {
+            padding: 10vw;
+            -webkit-box-shadow: 0px 0px 84px -47px rgba(0,0,0,0.95);
+            -moz-box-shadow: 0px 0px 84px -47px rgba(0,0,0,0.95);
+            box-shadow: 0px 0px 84px -47px rgba(0,0,0,0.95);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .popup__container p {
+            max-height: 40vh;
+            overflow: scroll;
+            overflow-x: hidden;
+            text-align: justify;
+            padding: 20px;
+        }
+        .popup__container a {
+            background: black;
+            padding: 20px;
+            text-decoration: none;
+            color: white;
+            text-transform: uppercase;
+            margin-top: 20px;
+            padding-left: 60px;
+            padding-right: 60px;
+        }
+         </style>
+         <script>
+             $(document).ready(function(){
+                $('.popup__container a').click(function(){
+                    document.cookie = "covid=1; path=/it/";
+                    window.location = '/it/';
+                });
+             });
+         </script>
+        <div class="popup__covid">
+            <table>
+                <tr>
+                    <td>
+                        <div class="popup__container">
+                        <p><b style="text-transform: uppercase">UVE e le Langhe, dove bellezza fa rima con sicurezza</b>
+<br/><br/>
+Le Langhe, con le sue colline patrimonio dell’umanità, i suoi borghi romantici, la sua enogastronomia ed i suoi vini apprezzati in tutto il mondo, è pronta ad accogliere nuovamente i suoi ospiti in tutta sicurezza garantendo escursioni e visite senza rischio di assembramento, per una vacanza all’aria aperta senza pensieri.
+<br/><br/>
+Per noi di UVE la sicurezza dei nostri ospiti è sempre stata una priorità, ed è con lo stesso impegno di sempre che oggi siamo lieti di accogliervi con qualche novità:
+<br/>•	PRE - check-in: nessun check-in all’arrivo, i nostri ospiti potranno farlo comodamente da casa prima di partire inviandoci il loro documento, con una procedura facile e veloce 
+<br/>•	Protocollo Sanitario: tutte le camere di UVE ed i suoi spazi comuni vengono sanificati più volte al giorno per garantire uno spazio sempre sicuro per i nostri ospiti. In tutte le camere e negli spazi comuni gli ospiti hanno a disposizione mascherine, gel e salviette sanificanti
+<br/>•	Aria condizionata e trattamento all’ozono: grazie a tecnologia di ultima generazione come il trattamento all’ozono in ogni camera e i filtri performanti presenti in ogni condizionatore, l’aria che si respira da UVE è davvero pulita
+<br/>•	La nostra colazione: i nostri ospiti possono godersi la prima coccola della giornata nei tavoli riservati del nostro ristorante o comodamente serviti nelle loro camere, con servizio à la carte
+<br/>•	Le nostre proposte culinarie: un pranzo, una degustazione, un aperitivo, un momento di relax che i nostri ospiti potranno farsi servire al ristorante interno o nel nostro bellissimo cortile, in un contesto creato per garantire le giuste distanze senza rinunciare ad un ambiente riservato ed elegante
+<br/>•	Il nostro Team: sempre aggiornato, preparato e disponibile per accogliere i nostri ospiti garantendo loro una vacanza in sicurezza, con un sorriso sempre presente sotto la mascherina!</p>
+                        <a href="javascript:void(0)">Chiudi</a>
+                        </div>
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+         -->
+
+        <div id="top"></div>
+
+        <header class="scrollfixed">
+            <a href="javascript:;" class="bt-menu"><span><i></i><i></i><i></i></span></a>
+            <a href="https://www.uvelanghe.it/it/" class="logo change-page">
+                <img src="uve.png" height="70" alt="UVE Langhe: Rooms&Wine Bar" class="dark">
+                <img src="uve-white2.png" height="70" alt="UVE Langhe: Rooms&Wine Bar" class="white">
+            </a>
+        </header>
+
+        <div class="bt-side-container scrollfixed anim">
+            <a href="javascript:;" class="bt-reservation">
+                <span class="bt-label">Contattaci</span>
+                <svg class="drawsvg" data-nosvg="/assets/img/icons/reservation-white.png" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1553.875 1373.857" xml:space="preserve" data-delay="500" data-speed="1">
+                    <path fill="none" stroke="#fff" stroke-width="40" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M182.698,1081.283c0-327.988,265.878-593.865,593.865-593.865s593.865,265.877,593.865,593.865"/>
+                    <path fill="none" stroke="#fff" stroke-width="40" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M776.584,39.034v448.384"/>
+                    <path fill="none" stroke="#fff" stroke-width="40" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M386.022,37.343h781.123"/>
+                    <path fill="none" stroke="#fff" stroke-width="40" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1518.991,1315.391H34.157"/>
+                </svg>
+                <span class="close"></span>
+            </a>
+            <a href="https://www.scidoo.com/preventivov2/?cod=616" target="_blank" class="bt-booking">
+                <span class="bt-label">Prenota ora</span>
+            </a>
+        </div>
+
+        <nav>
+            <div class="nav-menu main-menu">
+                <ul>
+                    <li><a href="https://www.uvelanghe.it/it/su-di-noi" class><span>01.</span>Su di noi</a></li>
+<li><a href="https://www.uvelanghe.it/it/camere" class><span>02.</span>Camere</a></li>
+<li><a href="https://www.uvelanghe.it/it/wine-bar" class><span>03.</span>Wine Bar</a></li>
+<li><a href="https://www.uvelanghe.it/it/ristorante" class><span>04.</span>Ristorante</a></li>
+<li><a href="https://www.uvelanghe.it/it/langhe" class><span>05.</span>Langhe</a></li>
+<li><a href="https://www.uvelanghe.it/it/offerte" class><span>06.</span>Offerte</a></li>
+<li><a href="javascript:;" class="show-reservation"><span>07.</span>Verifica disponibilità</a></li>
+<li><a href="https://www.uvelanghe.it/it/contatti" class><span>08.</span>Contatti</a></li>
+                </ul>
+            </div>
+
+            <div class="nav-menu booking-menu">
+                <ul>
+                    <li>
+                        <a href="javascript:;" class="show-reservation"><span>01.</span>Richiedi informazioni</a>
+                    </li>
+                    <li>
+                        <a href="https://www.scidoo.com/preventivov2/?cod=616" target="_blank" class="booking-link"><span>02.</span>Verifica disponibilità</a>
+                    </li>
+                </ul>
+            </div>
+
+            <ul class="language-menu">
+                <li><a class="lang-item active" href="https://www.uvelanghe.it/it/">IT</a></li>
+                <li><a class="lang-item " href="https://www.uvelanghe.it/en/">EN</a></li>
+                <li><a class="lang-item " href="https://www.uvelanghe.it/fr/">FR</a></li>
+                <li><a class="lang-item " href="https://www.uvelanghe.it/de/">DE</a></li>
+            </ul>
+
+        </nav>
+
+        <div class="header-reservation">
+            <div class="cont">
+                <p class="title">Verifica disponibilità</p>
+                <p class="subtitle">La prenotazione sarà effettivamente confermata da una email successiva alla richiesta.</p>
+                <form action="https://www.uvelanghe.it/it/reservation" novalidate="true" autocomplete="off" class="reservation-form" id="header-reservation-form" method="post" accept-charset="utf-8">
+<input type="hidden" name="csrf_uvetok_name" value="2c26b0910adb8d7189beb181e37fb5dd" style="display:none;">
+
+                    <a href="javascript:;" class="bt-back">Indietro</a>
+
+                    <div class="steps-cont">
+                        <div class="steps">
+                            <div class="step step0 active">
+                                <label>Nome e cognome</label>
+                                <input type="text" placeholder="Nome e cognome" name="name" autocomplete="off" autocorrect="off" autocapitalize="off">
+                            </div>
+                            <div class="step step1">
+                                <label>Email</label>
+                                <input type="email" placeholder="Email" name="email" autocomplete="off" autocorrect="off" autocapitalize="off">
+                            </div>
+                            <div class="step step2">
+                                <label>Arrivo</label>
+                                <span class="datepicker-container">
+                                    <input type="text" placeholder="Arrivo" class="datepicker datepicker-bot-from" name="from" autocomplete="off" autocorrect="off" autocapitalize="off">
+                                    <span></span>
+                                </span>
+                            </div>
+                            <div class="step step3">
+                                <label>Partenza</label>
+                                <span class="datepicker-container">
+                                    <input type="text" placeholder="Partenza" class="datepicker datepicker-bot-to" name="to" autocomplete="off" autocorrect="off" autocapitalize="off">
+                                    <span></span>
+                                </span>
+                            </div>
+                            <div class="step step4">
+                                <label>Adulti</label>
+                                <input type="text" placeholder="Adulti" class="field-onlynum" name="adults" autocomplete="off" autocorrect="off" autocapitalize="off">
+                            </div>
+                            <div class="step step5">
+                                <label>Bambini</label>
+                                <input type="text" placeholder="Bambini" class="field-onlynum" name="childrens" autocomplete="off" autocorrect="off" autocapitalize="off">
+                            </div>
+                            <div class="step step6">
+                                <label>Tipo di camera</label>
+                                <select data-select data-custom-class="select-reservation" name="room">
+                                    <option>Tipo di camera</option>
+                                    <option value="Barolo">Barolo - Suite</option>
+                                    <option value="Barbaresco">Barbaresco - Suite</option>
+                                    <option value="Nebbiolo">Nebbiolo - De Luxe</option>
+                                    <option value="Barbera">Barbera - De Luxe</option>
+                                    <option value="Dolcetto">Dolcetto - Superior</option>
+                                    <option value="Arneis">Arneis - Superior</option>
+                                    <option value="Alta Langa">Alta Langa - Superior</option>
+                                    <option value="Langhe">Langhe - Superior</option>
+                                </select>
+                            </div>
+                            <div class="step step7">
+                                <label>Altre informazioni</label>
+                                <input type="text" placeholder="Altre informazioni" name="info" autocomplete="off" autocorrect="off" autocapitalize="off">
+                            </div>
+                        </div>
+                        <div class="current-step">01</div>
+                        <div class="total-steps"><span>/</span>08</div>
+                        <div class="steps-bar"></div>
+                    </div>
+
+                    <div class="box-privacy">
+                        <span>
+                            <input type="checkbox" id="checkPrivacy" name="privacy">
+                            <label for="checkPrivacy"></label>
+                        </span>
+                        Accetto la <a target="_blank" href="https://www.uvelanghe.it/it/privacy">Privacy</a>                    </div>
+
+                    <div class="step-confirm">
+
+                        <input name="step-confirm-input" placeholder="Confirm text">
+
+                    </div>
+
+                    <button type="button"><i class="icon-arrow-right"></i></button>
+                    <button type="submit">INVIA</button>
+
+                </form>
+            </div>
+        </div>
+
+        <div id="mainContent">
+<div class="container-bg">
+
+	<img src="welcome-to-uve-lange.jpg" class="hide" alt="Welcome to UVE Lange">
+	<div class="vheight bg-fullsize top-page" style="background-image: url(welcome-to-uve-lange.jpg)">	
+		<div class="text-vertical text-vertical--centered text-vertical--image">
+			<div class="text">
+				<h1 class="title title--big title--nomargin"><span class="anim-to" data-delay="500">Pagina non trovata </span></h1>
+				<a href="#notfound" class="anim-o button-round button-round--compose button-absolute scroll"><span class="line"></span><span class="icon icon-arrow-down icon--centered"></span></a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container" id="notfound">
+		<p class="title-line title-line--center anim-to title-line--mb-120">404 error</p>
+
+		<div class="event-text text-center">
+			
+			<h2 class="title">404 error</h2>
+			<p></p><p>Purtroppo, non siamo riusciti a trovare la pagina che stavi cercando.<br class="l-hidden-sm"> Cercare una nuova pagina nel menu o tornare alla home page</p><p></p>
+
+		</div>
+
+		<div class="spacer"></div>
+
+	</div>
+
+</div>		</div><!-- #maincontent -->
+
+	</div>
+
+	<footer>
+
+		<div class="container">
+
+			<div class="footer-logo">
+				<svg data-nosvg="/assets/img/loghi/uve-white.png" version="1.1" class="drawsvg" data-drawsvg="{"hideStrokeOnEnd": true, "showFillonEnd": true }" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 674 2000 636" style="enable-background:new 0 674 2000 636;" xml:space="preserve">
+					<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M670.273,1227.047c-10.027-3.862-21.613-12.33-34.735-25.475c-13.121-14.633-19.67-29.697-19.67-45.145V696.84h-9.259 c-32.408,19.31-65.967,32.816-100.726,40.516c-43.226,11.562-92.234,21.229-147.022,28.954v6.956 c30.105,7.724,54.021,22.405,71.772,43.994c18.519,21.613,27.778,50.543,27.778,86.813v223.496v30.057v37.037v92.618h8.108 c20.846-10.003,55.964-20.846,105.355-32.408c42.435-9.259,75.994-13.889,100.726-13.889h13.889l1.151-10.435 C683.01,1230.501,677.229,1229.373,670.273,1227.047z"/>
+					<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M333.409,1223.28c-50.951,0-76.402-53.949-76.402-155.826V696.84h-9.259c-32.432,19.31-65.991,32.816-100.726,40.516 C103.796,748.918,54.789,758.585,0,766.285v6.956c30.849,8.492,55.172,23.148,72.948,43.994 c18.495,21.613,27.778,50.543,27.778,86.813l1.151,214.165c0.768,49.415,11.586,89.931,32.432,121.547 c20.846,31.664,52.846,47.472,96.072,47.472c55.316,0,101.973-16.288,157.841-47.4l-11.25-29.289 C361.379,1219.178,346.723,1223.28,333.409,1223.28z"/>
+					<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M1813.973,1174.801c-59.058,0-106.986-22.165-143.712-66.471c-36.726-44.306-68.726-116.294-68.726-200.516 c0-53.781,11.922-99.214,35.79-136.324c23.868-37.109,57.739-55.676,101.685-55.676c20.438,0,37.301,5.877,50.543,17.607 c13.241,11.754,22.717,28.977,28.402,51.694c5.685,22.717,9.667,44.498,11.922,65.319c2.279,20.846,3.406,38.381,3.406,69.445 h-149.541v28.834h149.541h152.228c0-59.826-23.484-116.822-70.429-170.987c-46.969-54.141-105.667-81.223-176.096-81.223 c-83.334,0-153.379,28.594-210.183,85.781c-56.804,57.187-85.205,127.424-85.205,210.735c0,84.822,28.018,155.274,84.078,211.31 c56.036,56.06,126.105,84.078,210.159,84.078c36.366,0,69.877-6.812,100.534-20.438c30.681-13.625,54.525-29.529,71.58-47.712 c17.055-18.183,31.616-37.493,43.73-57.955c12.114-20.438,20.246-36.726,24.42-48.84c4.15-12.114,6.261-19.31,6.261-21.589 l-11.37-1.127C1937.391,1146.783,1884.402,1174.801,1813.973,1174.801z"/>
+					<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M1445.901,696.84c-42.507,0-249.043,0-294.045,0v9.259c0,0,25.14-5.853,62.513,32.984c14.609,15.184,20.846,36.486,20.846,61.937 c0,27.778-8.492,59.826-25.475,96.072l-35.982,76.426l11.25,29.505l47.88-96.672l10.435-19.67 c7.7-13.889,18.519-30.681,32.408-50.351c13.889-19.694,29.121-39.364,45.721-59.034c16.576-19.67,36.27-36.462,59.035-50.351 c22.765-13.913,44.953-20.846,66.567-20.846L1445.901,696.84z"/>
+					<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M1006.009,763.982c-4.63-11.562-6.957-21.205-6.957-28.954c0-26.915,38.213-28.953,38.213-28.953v-9.235 c-43.154,0-248.564,0-294.045,0v9.259c0,0,46.992-0.216,69.469,53.253l222.273,527.88h9.259l91.538-184.756L1006.009,763.982z"/>
+				</svg>
+			</div>
+
+			<div class="clearfix" itemscope itemtype="https://schema.org/Hotel">
+				<div class="col col--address">
+					<p class="p-company anim-to">
+						<span itemprop="name">Uve — Rooms & Wine Bar</span><br>
+						<span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+							La Morra, Langhe<br>
+							<span itemprop="streetAddress">Via Umberto I, 13</span> <span itemprop="addressLocality">La Morra (Cuneo)</span> <br><span itemprop="postalCode">12064</span> - <span itemprop="addressRegion">Italy</span>
+						</span>
+					</p>
+				</div>
+				<div class="col col--menu">
+					<div class="clearfix">
+						<div class="col-mid">
+							<ul class="ul--reset">
+																		<li><a href="https://www.uvelanghe.it/it/su-di-noi"><span>01.</span> Su di noi</a></li>
+																											<li><a href="https://www.uvelanghe.it/it/camere"><span>02.</span> Camere</a></li>
+																											<li><a href="https://www.uvelanghe.it/it/wine-bar"><span>03.</span> Wine Bar</a></li>
+																											<li><a href="https://www.uvelanghe.it/it/ristorante"><span>04.</span> Ristorante</a></li>
+									</ul></div><div class="col-mid"><ul class="ul--reset">																		<li><a href="https://www.uvelanghe.it/it/langhe"><span>05.</span> Langhe</a></li>
+																											<li><a href="https://www.uvelanghe.it/it/offerte"><span>06.</span> Offerte</a></li>
+																											<li><a href="javascript:;" class="show-reservation"><span>07.</span> Verifica disponibilità</a></li>
+																											<li><a href="https://www.uvelanghe.it/it/contatti"><span>08.</span> Contatti</a></li>
+																								</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col col--contacts">
+					<p class="anim-to">T. <span itemprop="telephone">+39 0173 50740</span><br>
+					T. <span itemprop="telephone">+39 337 1342401</span><br>
+					M. <a href="mailto:discover@uve.info" class="link-email"><span itemprop="email">discover@uve.info</span></a></p>
+				</div>
+			</div>
+			<div class="clearfix row-bottom">
+				<div class="col col--icons">
+					<p class="label-text anim-to">Friendly</p>
+					<div class="icons">
+						<img src="../fonts/icon-friendly.svg" alt="ECO" width="31" class="anim-to">
+						<img src="../fonts/icon-childrens.svg" alt="Childrens" width="46" class="anim-to" data-delay="100">
+						<img src="../fonts/icon-love.svg" alt="Love" width="32" class="anim-to" data-delay="200">
+					</div>
+
+				</div>
+				<div class="col col--newsletter">
+									</div>
+				<div class="col col--social">
+					<p class="label-text anim-to">Social media</p>
+					<div class="social-icons anim-to">
+						<a href="https://www.facebook.com/UVELaMorra" target="_blank" class="button-round button-round--compose" data-stroke-color="#999999" data-hover-stroke-color="#ffffff"><span class="line"></span><span class="icon icon-facebook icon--centered"></span></a>
+						<a href="https://twitter.com/UveLaMorra?lang=it" target="_blank" class="button-round button-round--compose" data-stroke-color="#999999" data-hover-stroke-color="#ffffff"><span class="line"></span><span class="icon icon-twitter icon--centered"></span></a>
+						<a href="https://instagram.com/uvelamorra/" target="_blank" class="button-round button-round--compose" data-stroke-color="#999999" data-hover-stroke-color="#ffffff"><span class="line"></span><span class="icon icon-instagram icon--centered"></span></a>
+						<a href="https://it.pinterest.com/uveroomswinebar/uve-rooms-wine-bar/" target="_blank" class="button-round button-round--compose" data-stroke-color="#999999" data-hover-stroke-color="#ffffff"><span class="line"></span><span class="icon icon-pinterest icon--centered"></span></a>
+
+					</div>
+				</div>
+				<a href="#top" class="button-round button-round--compose bt-arrow-top anim-to scroll" data-stroke-color="#999999" data-hover-stroke-color="#ffffff"><span class="line"></span><span class="icon icon-arrow-top icon--centered"></span></a>
+
+			</div>
+		</div>
+
+		<div class="dati">
+			<div class="container clearfix">
+				<p class="uve">All rights reserved 2015 © Uve — Rooms &amp; Wine Bar - P.I. 02819860046</p>
+				<p class="credits">Site by <a href="http://www.aquest.it" target="_blank">AQuest</a></p>
+			</div>
+		</div>
+
+	</footer>
+
+	<!-- /#mainwrap -->
+
+	<div id="loading">
+
+		<div class="svg">
+			<svg data-nosvg="/assets/img/loghi/uve-white.png" version="1.1" id="loading-svg" class="drawsvg" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 674 2000 636" style="enable-background:new 0 674 2000 636;" xml:space="preserve">
+				<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M670.273,1227.047c-10.027-3.862-21.613-12.33-34.735-25.475c-13.121-14.633-19.67-29.697-19.67-45.145V696.84h-9.259 c-32.408,19.31-65.967,32.816-100.726,40.516c-43.226,11.562-92.234,21.229-147.022,28.954v6.956 c30.105,7.724,54.021,22.405,71.772,43.994c18.519,21.613,27.778,50.543,27.778,86.813v223.496v30.057v37.037v92.618h8.108 c20.846-10.003,55.964-20.846,105.355-32.408c42.435-9.259,75.994-13.889,100.726-13.889h13.889l1.151-10.435 C683.01,1230.501,677.229,1229.373,670.273,1227.047z"/>
+				<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M333.409,1223.28c-50.951,0-76.402-53.949-76.402-155.826V696.84h-9.259c-32.432,19.31-65.991,32.816-100.726,40.516 C103.796,748.918,54.789,758.585,0,766.285v6.956c30.849,8.492,55.172,23.148,72.948,43.994 c18.495,21.613,27.778,50.543,27.778,86.813l1.151,214.165c0.768,49.415,11.586,89.931,32.432,121.547 c20.846,31.664,52.846,47.472,96.072,47.472c55.316,0,101.973-16.288,157.841-47.4l-11.25-29.289 C361.379,1219.178,346.723,1223.28,333.409,1223.28z"/>
+				<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M1813.973,1174.801c-59.058,0-106.986-22.165-143.712-66.471c-36.726-44.306-68.726-116.294-68.726-200.516 c0-53.781,11.922-99.214,35.79-136.324c23.868-37.109,57.739-55.676,101.685-55.676c20.438,0,37.301,5.877,50.543,17.607 c13.241,11.754,22.717,28.977,28.402,51.694c5.685,22.717,9.667,44.498,11.922,65.319c2.279,20.846,3.406,38.381,3.406,69.445 h-149.541v28.834h149.541h152.228c0-59.826-23.484-116.822-70.429-170.987c-46.969-54.141-105.667-81.223-176.096-81.223 c-83.334,0-153.379,28.594-210.183,85.781c-56.804,57.187-85.205,127.424-85.205,210.735c0,84.822,28.018,155.274,84.078,211.31 c56.036,56.06,126.105,84.078,210.159,84.078c36.366,0,69.877-6.812,100.534-20.438c30.681-13.625,54.525-29.529,71.58-47.712 c17.055-18.183,31.616-37.493,43.73-57.955c12.114-20.438,20.246-36.726,24.42-48.84c4.15-12.114,6.261-19.31,6.261-21.589 l-11.37-1.127C1937.391,1146.783,1884.402,1174.801,1813.973,1174.801z"/>
+				<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M1445.901,696.84c-42.507,0-249.043,0-294.045,0v9.259c0,0,25.14-5.853,62.513,32.984c14.609,15.184,20.846,36.486,20.846,61.937 c0,27.778-8.492,59.826-25.475,96.072l-35.982,76.426l11.25,29.505l47.88-96.672l10.435-19.67 c7.7-13.889,18.519-30.681,32.408-50.351c13.889-19.694,29.121-39.364,45.721-59.034c16.576-19.67,36.27-36.462,59.035-50.351 c22.765-13.913,44.953-20.846,66.567-20.846L1445.901,696.84z"/>
+				<path stroke="#ffffff" stroke-width="3" fill="#ffffff" d="M1006.009,763.982c-4.63-11.562-6.957-21.205-6.957-28.954c0-26.915,38.213-28.953,38.213-28.953v-9.235 c-43.154,0-248.564,0-294.045,0v9.259c0,0,46.992-0.216,69.469,53.253l222.273,527.88h9.259l91.538-184.756L1006.009,763.982z"/>
+			</svg>
+		</div>
+
+        <div class="loading-status button-round button-round--compose2 button-round--no-border nohover" data-drawcircle="{"strokeColor" : "#666666", "strokeWidth": 3, "speed": 1000}">
+        	<span class="line"></span>
+        </div>
+
+
+	</div>
+
+	<div class="reservation-recap--overlay">
+
+		<div class="reservation-recap--info" id="reservation-recap-form">
+			<a href="#rooms" class="close-btn button-round button-round--compose" data-stroke-width="3" data-stroke-color="#dddddd" data-hover-stroke-width="3" data-hover-stroke-color="#333333" data-speed="600"><span class="line"></span><span class="iconn-close"></span></a>
+			<div class="title-line title-subtitle2 title-line--center anim-to showed">Riepilogo verifica disponibilità</div>
+			<div class="cols2 info-text clearfix">
+				<div class="col">
+					<p><span class="label-text">01. Nome e cognome</span><br>
+					<span class="info1">-</span></p>
+				</div>
+				<div class="col col--last">
+					<p><span class="label-text">02. Email</span><br>
+					<span class="info2">-</span></p>
+				</div>
+			</div>
+			<div class="cols2 info-text clearfix">
+				<div class="col">
+					<p><span class="label-text">03. Arrivo</span><br>
+					<span class="info3">-</span></p>
+				</div>
+				<div class="col col--last">
+					<p><span class="label-text">04. Partenza</span><br>
+					<span class="info4">-</span></p>
+				</div>
+			</div>
+			<div class="cols2 info-text clearfix">
+				<div class="col">
+					<p><span class="label-text">05. Adulti</span><br>
+					<span class="info5">-</span></p>
+				</div>
+				<div class="col col--last">
+					<p><span class="label-text">06. Bambini</span><br>
+					<span class="info6">-</span></p>
+				</div>
+			</div>
+			<div class="cols2 info-text clearfix">
+				<div class="col">
+					<p><span class="label-text">07. Tipo di camera</span><br>
+					<span class="info7">-</span></p>
+				</div>
+				<div class="col col--last">
+					<p><span class="label-text">08. Altre informazioni</span><br>
+					<span class="info8">-</span></p>
+				</div>
+			</div>
+
+
+			<div class="button-wrap">
+
+				<button class="button-stroke"><span>Conferma richiesta</span></button>
+
+				<!--<button type="button">Conferma richiesta</button>-->
+	            <div class="send-loading button-round button-round--compose2 button-round--no-border nohover" data-drawcircle="{"strokeColor" : "#ffffff", "strokeWidth": 2, "speed": 3000}">
+	            	<span class="line"></span>
+	            </div>
+	            <div class="recap-sent">
+					<svg data-nosvg="/assets/img/icons/icon-recap-sent.png" version="1.1" data-drawsvg="{"speed": 0.6}" data-delay="200" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 622 459" enable-background="new 0 0 622 459" xml:space="preserve" width="70">
+						<path fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.7,240.3L196.7,428L603.8,20.8"/>
+					</svg>
+	            </div>
+			</div>
+		</div>
+
+	</div>
+
+	<script type="text/javascript">
+
+		var _lang = 'it',
+			_baseUrl = 'https://www.uvelanghe.it/',
+			_siteUrl = 'https://www.uvelanghe.it/it';
+
+		window.currentPage = 'https://www.uvelanghe.it/assets/min/images/ui-bg_highlight-soft_35_222222_1x100.png';
+
+	</script>
+
+	
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?language=en&amp;ver=3.9.2"></script>
+    	    <script type="text/javascript" src="../js/app.min.js"></script>
+    
+	<!-- ----------COOKIEBOT----------- -->
+	<style>
+		#cookie-msg {
+			display: none;
+		}
+	</style>
+	<script id="Cookiebot" src="../js/uc.js" data-cbid="93d270d4-f877-472f-b681-761f9063ef8f" data-blockingmode="auto" type="text/javascript"></script>
+	
+	<!-- ----------COOKIEBOT----------- -->
+
+</body>
+</html>
